@@ -26,10 +26,12 @@
   </a>
   
   <h2>🏆 My Stats:</h2>
-  <p>
-    <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefChahib&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChahib&layout=compact&theme=dark" />
-  </p>
+<p>
+  <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefChahib&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+  <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChahib&layout=compact&theme=dark" />
+</p>
+
+
   
   <h2>Reach out to me:</h2>
   <a href="https://www.linkedin.com/in/youssef-chahib/" target="_blank" rel="noreferrer">
