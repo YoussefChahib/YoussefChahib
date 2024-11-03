@@ -1,7 +1,11 @@
 <div align="center">
-  <h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />  
-  It's <strong>Youssef CHAHIB</strong> here!</h1>
-  <h3><strong>Software engineer</strong> in the making ⏳...</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E30000&size=35&center=true&vCenter=true&width=900&lines=Hey!+👋+I'm+Youssef+CHAHIB;Welcome+to+my+GitHub+profile!" alt="Typing SVG">
+  </a>
+</div>
+<div align="center">
+
+  <h3><strong>Software Engineer</strong> in the making ⏳...</h3>
 
   <a href="https://github.com/YoussefChahib">
     <img src="assets/header2.gif" alt="Header Image" width="800" />
