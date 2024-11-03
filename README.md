@@ -30,10 +30,10 @@
   </a>
   
   <h2>🏆 My Stats:</h2>
-<p>
-  <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YoussefChahib&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-  <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChahib&layout=compact&theme=dark" />
-</p>
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=YoussefChahib&theme=shadow_red&show_icons=true" /> <br/>
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChahib&layout=pie&theme=shadow_red" />
+</div>
 
 
   
