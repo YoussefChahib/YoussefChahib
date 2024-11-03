@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />  
   It's <strong>Youssef CHAHIB</strong> here!</h1>
-  
-  <h3>Software engineer in the making ⏳...</h3>
-  
+  <h3><strong>Software engineer</strong> in the making ⏳...</h3>
+
   <a href="https://github.com/YoussefChahib">
     <img src="assets/header2.gif" alt="Header Image" width="800" />
   </a>
+  
 </div>
 
 <div align="left">
@@ -31,7 +31,7 @@
     <img height="175" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChahib&layout=compact&theme=dark" />
   </p>
   
-  <h2>Reach me:</h2>
+  <h2>Reach out to me:</h2>
   <a href="https://www.linkedin.com/in/youssef-chahib/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a> &nbsp;
